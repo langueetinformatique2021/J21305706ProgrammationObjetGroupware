@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"ClaraProgrammationObjetetGroupware","l":"atelier02"}];updateSearchResults();

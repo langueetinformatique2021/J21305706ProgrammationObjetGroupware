@@ -3,7 +3,12 @@ package atelier05;
 public class ProblemeCarafe {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+Carafe c1, c2;
+
+		c1 = new Carafe(4);
+		c2 = new Carafe(7);
+		
+		
 
 	}
 
